@@ -9,7 +9,7 @@ import {
 import SlickCarousel from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { banners } from "./src/banners";
+import { banners } from "../src/banners";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 
 export default function Slick() {
