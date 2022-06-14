@@ -30,7 +30,7 @@ export default function Slick() {
             <Image
               key={banner.src}
               htmlWidth={1920}
-              htmlHeight={1200}
+              htmlHeight={768}
               width="full"
               height="auto"
               alt="carousel"
